@@ -1,7 +1,10 @@
-let name = "Morty";
+let name = "Morty ";
 let lastName = "Batman";
 let age = 93;
 
-console.log("hi")
+console.log("hello, my name is " + name + lastName);
 
-console.log("hello, my {name} is ")
+let currentYear = 2022;
+let birthDate = currentYear - age;
+console.log(birthDate);
+
