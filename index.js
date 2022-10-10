@@ -8,4 +8,4 @@ let currentYear = 2022;
 let birthDate = currentYear - age;
 console.log(birthDate);
 
-                
+                 
